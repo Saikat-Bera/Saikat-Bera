@@ -1,4 +1,4 @@
-<!-- Welcome to my GitHub space! -->
+![logo](https://github.com/Saikat-Bera/Saikat-Bera/blob/main/README.md)
 <h1 align="center">Hi 👋, I'm saikat bera</h1>
 <h3 align="center">A passionate compettive programer from India</h3>
 
