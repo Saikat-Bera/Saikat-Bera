@@ -1,4 +1,4 @@
-![logo](https://github.com/Saikat-Bera/Saikat-Bera/blob/main/README.md)
+![logo](https://github.com/Saikat-Bera/Saikat-Bera/blob/7e6331074745901e8fa48c29e0943a916a054465/image.png)
 <h1 align="center">Hi 👋, I'm saikat bera</h1>
 <h3 align="center">A passionate compettive programer from India</h3>
 
